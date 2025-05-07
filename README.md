@@ -1,16 +1,18 @@
-# Hello! I'm Kornelia 
+# Hello! My name is Kornelia :)
 
-I'm a student-athlete and aspiring Data Analyst!
+I'm a student-athlete at West Virginia University and aspiring Data Analyst!
 
 ### 🌱 I’m currently learning:
 - Python and backend development
 - Git & GitHub
 - Cybersecurity basics
+- Internet of Things
 
 ### 💼 I’m interested in:
 - Data science
 - Frontend/backend development
 - Building cool tools for everyday life
+- Robotics
 
 ### 📫 How to reach me:
 - Email: kornelia.buszka@gmail.com
