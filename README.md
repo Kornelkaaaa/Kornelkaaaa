@@ -15,8 +15,8 @@ I'm a student-athlete at West Virginia University and aspiring Data Analyst!
 - Robotics
 
 ### 📫 How to reach me:
-- Email: kornelia.buszka@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/kornelia-buszka/}
-- Youtube: [https://www.youtube.com/@kornelia_buszka]
+- Send me [email](mailto:kornelia.buszka@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kornelia-buszka/) 
+- [Youtube](https://www.youtube.com/@kornelia_buszka)
 
 Fun fact: I swim faster than I code — for now 😄
