@@ -5,6 +5,7 @@ I'm a student-athlete at West Virginia University and aspiring Data Analyst!
 ### 🌱 I’m currently learning:
 - Python and backend development
 - Git & GitHub
+- C#
 - Cybersecurity basics
 - Internet of Things
 
