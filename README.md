@@ -15,7 +15,7 @@ I'm a student-athlete at West Virginia University and aspiring Data Analyst!
 - Building cool tools for everyday life
 - Robotics
 
-### My Projects:
+### 📂 My Projects:
 - First machine learning project: [Prediction-of-The-Most-Popular-Song-2024](https://github.com/Kornelkaaaa/Prediction-of-The-Most-Popular-Song-2024)
 - SQL [Competitive Swimming Team Database](https://github.com/Kornelkaaaa/Mist351_LastAssigment)
 - HTML + CSS + JS [Compostable Item Checker](https://github.com/Kornelkaaaa/CompostableItemChecker)
