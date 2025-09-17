@@ -13,6 +13,7 @@ I'm a student-athlete at West Virginia University and aspiring Data Analyst!
 - Data science
 - Frontend/backend development
 - Building cool tools for everyday life
+- Web applications
 - Robotics
 
 ### 📂 My Projects:
