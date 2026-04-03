@@ -2,7 +2,7 @@
 
 # Kornelia Buszka
 
-**Student-Athlete · Aspiring Data Analyst · Builder**
+**Student-Athlete · Aspiring AI Engineer and Cybersecurity Specialist · Builder**
 
 *West Virginia University*
 
