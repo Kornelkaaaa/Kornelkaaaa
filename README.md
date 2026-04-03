@@ -1,43 +1,97 @@
-# Hello! My name is Kornelia :)
+<div align="center">
 
-I'm a student-athlete at West Virginia University and aspiring Data Analyst!
+# Kornelia Buszka
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+**Student-Athlete · Aspiring Data Analyst · Builder**
 
-### 🌱 I’m currently learning:
-- Python and backend development
-- Git & GitHub
-- C#
-- Cybersecurity basics
-- Internet of Things
+*West Virginia University*
 
-### 💼 I’m interested in:
-- Data science
-- Frontend/backend development
-- Building cool tools for everyday life
-- Web applications
-- Robotics
-
-### 📂 My Projects:
-- First machine learning project: [Prediction-of-The-Most-Popular-Song-2024](https://github.com/Kornelkaaaa/Prediction-of-The-Most-Popular-Song-2024)
-- SQL [Competitive Swimming Team Database](https://github.com/Kornelkaaaa/Mist351_LastAssigment)
-- HTML + CSS + JS [Compostable Item Checker](https://github.com/Kornelkaaaa/CompostableItemChecker)
-- Java [Basic Swim Coach Application](https://github.com/Kornelkaaaa/swimmerCoach)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kornelia-buszka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kornelia_buszka) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kornelkaaaa&theme=panda&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kornelkaaaa&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kornelkaaaa&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kornelkaaaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kornelia-buszka)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@kornelia_buszka)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kornelkaaaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a student-athlete at West Virginia University pursuing a passion for data analytics and software development. I thrive at the intersection of athletics and technology — both demand discipline, strategy, and the willingness to keep improving. Currently building my skills across data science, backend development, and IoT while competing at the collegiate level.
+
+- 🎓 Studying toward a career in **Data Analytics**, **AI Engineer** and **Cybersecurity Specialist**
+- 🏊 Competitive **student-athlete** at WVU
+- 🌱 Currently deepening my knowledge in **Python**, **Git/GitHub**, and **Cybersecurity**
+- 🤖 Passionate about **IoT**, **Robotics**, and building tools that solve real problems
+- 📍 Based in West Virginia at least right now
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Song Popularity Predictor**](https://github.com/Kornelkaaaa/Prediction-of-The-Most-Popular-Song-2024) | Machine learning model predicting the most popular songs of 2024 | Python, ML |
+| [**Swim Team Database**](https://github.com/Kornelkaaaa/Mist351_LastAssigment) | Relational database system for a competitive swimming team | SQL |
+| [**Compostable Item Checker**](https://github.com/Kornelkaaaa/CompostableItemChecker) | Interactive web tool to identify compostable items | HTML, CSS, JS |
+| [**Basic Swim Coach App**](https://github.com/Kornelkaaaa/swimmerCoach) | Application to help coaches manage swimmer training | Java |
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Cloud & Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+**Frameworks & Tools**
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Hardware & Other**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+
+---
+
+## Currently Learning
+
+```
+├── Python & backend development
+├── Git & GitHub workflows
+├── C# & .NET ecosystem
+├── Cybersecurity fundamentals
+└── Internet of Things (IoT)
+```
+
+---
+
+<div align="center">
+
+*Open to collaboration, internships, and data-driven projects.*
+
+**Let's connect →** [linkedin.com/in/kornelia-buszka](https://linkedin.com/in/kornelia-buszka)
+
+</div>
