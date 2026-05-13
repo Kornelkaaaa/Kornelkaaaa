@@ -14,12 +14,12 @@
 
 ## About Me
 
-I'm a student-athlete at West Virginia University pursuing a passion for data analytics and software development. I thrive at the intersection of athletics and technology — both demand discipline, strategy, and the willingness to keep improving. Currently building my skills across data science, backend development, and IoT while competing at the collegiate level.
+I'm a student-athlete at West Virginia University pursuing a passion for data analytics and software development. I thrive at the intersection of athletics and technology; both demand discipline, strategy, and the willingness to keep improving. Currently building full-stack AI applications that combine FastAPI backends, Streamlit frontends, SQL Server, and OpenAI embeddings to solve real recommendation and analytics problems.
 
-- 🎓 Studying toward a career in **Data Analytics**, **AI Engineer** and **Cybersecurity Specialist**
+- 🎓 Studying toward a career in **Data Analytics**, **AI Engineering** and **Cybersecurity**
 - 🏊 Competitive **student-athlete** at WVU
 - 🌱 Currently deepening my knowledge in **Python**, **Git/GitHub**, and **Cybersecurity**
-- 🤖 Passionate about **IoT**, **Robotics**, and building tools that solve real problems
+- 🤖 Passionate about **AI-powered apps**, **IoT**, **Robotics**, and building tools that solve real problems
 - 📍 Based in West Virginia at least right now
 
 ---
@@ -28,10 +28,13 @@ I'm a student-athlete at West Virginia University pursuing a passion for data an
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Song Popularity Predictor**](https://github.com/Kornelkaaaa/Prediction-of-The-Most-Popular-Song-2024) | Machine learning model predicting the most popular songs of 2024 | Python, ML |
-| [**Swim Team Database**](https://github.com/Kornelkaaaa/Mist351_LastAssigment) | Relational database system for a competitive swimming team | SQL |
-| [**Compostable Item Checker**](https://github.com/Kornelkaaaa/CompostableItemChecker) | Interactive web tool to identify compostable items | HTML, CSS, JS |
-| [**Basic Swim Coach App**](https://github.com/Kornelkaaaa/swimmerCoach) | Application to help coaches manage swimmer training | Java |
+| [**Game Recommender (MIST 460)**](https://github.com/Kornelkaaaa/MIST460_GroupProject_Group1) | 3-tier game recommendation system with classical SQL recommendations **and** AI-powered semantic search. Embeds reviews + descriptions with OpenAI, runs cosine-similarity vector search in SQL Server, and uses GPT-4o-mini as an advisor to rank and explain matches. Includes developer analytics dashboard. | FastAPI, Streamlit, SQL Server (VECTOR), OpenAI, pymssql |
+| [**Course Recommender 🌸**](https://github.com/Kornelkaaaa/MIST460_CourseRecommender_Buszka) | Live kawaii-themed WVU course recommender. Takes a job description, runs vector search over course descriptions with `text-embedding-3-small`, and asks GPT-4o to rank + justify matches. Also checks prerequisites and course sections. [**Live demo →**](https://mist460-ui-buszka.streamlit.app/) | FastAPI, Streamlit, SQL Server, OpenAI, LangChain, Azure |
+| [**BUDA 455 Final Dashboard**](https://github.com/Kornelkaaaa/BUDa455-Final-App) | Streamlit dashboard built for Intro to Business Intelligence & AI — applying BI/AI techniques to a business analytics use case. | Python, Streamlit |
+| [**Song Popularity Predictor**](https://github.com/Kornelkaaaa/Prediction-of-The-Most-Popular-Song-2024) | Machine learning model predicting the most popular songs of 2024. | Python, ML |
+| [**Swim Team Database**](https://github.com/Kornelkaaaa/Mist351_LastAssigment) | Relational database system for a competitive swimming team. | SQL |
+| [**Compostable Item Checker**](https://github.com/Kornelkaaaa/CompostableItemChecker) | Interactive web tool to identify compostable items. | HTML, CSS, JS |
+| [**Basic Swim Coach App**](https://github.com/Kornelkaaaa/swimmerCoach) | Application to help coaches manage swimmer training. | Java |
 
 ---
 
@@ -44,6 +47,14 @@ I'm a student-athlete at West Virginia University pursuing a passion for data an
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**AI & Data**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Cloud & Platforms**
 
@@ -55,9 +66,10 @@ I'm a student-athlete at West Virginia University pursuing a passion for data an
 
 **Frameworks & Tools**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
@@ -65,6 +77,7 @@ I'm a student-athlete at West Virginia University pursuing a passion for data an
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Hardware & Other**
 
@@ -73,14 +86,14 @@ I'm a student-athlete at West Virginia University pursuing a passion for data an
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-
 ---
 
 ## Currently Learning
 
 ```
-├── Python & backend development
-├── Git & GitHub workflows
+├── Vector search & embedding-based retrieval (RAG patterns)
+├── FastAPI + Streamlit production deployment (Azure, Streamlit Cloud)
+├── Advanced T-SQL: stored procedures, triggers, vector functions
 ├── C# & .NET ecosystem
 ├── Cybersecurity fundamentals
 └── Internet of Things (IoT)
