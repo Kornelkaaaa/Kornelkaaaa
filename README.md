@@ -222,7 +222,7 @@ Application to help coaches manage swimmer training.
 </details>
 
 ---
-
+<!-- TODO: Add API usage examples here 
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -247,7 +247,7 @@ Application to help coaches manage swimmer training.
 </div>
 
 ---
-
+-->
 ## 📊 Contribution Activity
 
 <div align="center">
